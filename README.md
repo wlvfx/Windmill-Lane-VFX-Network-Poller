@@ -65,4 +65,5 @@ http://127.0.0.1:8080/?port=443
 * Other query types.
 * A UI.
 * Setting of the polling period.
+* Tests.
 * Any other features you deem appropriate.
