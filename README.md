@@ -63,7 +63,7 @@ http://127.0.0.1:8080/?port=443
 
 * Extra host information.
 * Other query types.
-* A UI.
+* UI / Webpage.
 * Setting of the polling period.
-* Tests.
 * Any other features you deem appropriate.
+* Tests.
